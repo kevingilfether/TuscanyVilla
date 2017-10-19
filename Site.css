@@ -1,4 +1,6 @@
 ﻿body {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
 #navvy {
@@ -10,9 +12,10 @@ div.jumbotron.bigPicUnderNavBar {
     background-size:cover;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
+    height:348px;
 }
 
-.leftImg {
+.leftImgText {
     text-align: center;
 }
 
@@ -20,6 +23,7 @@ div.jumbotron.bigPicUnderNavBar {
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
     height:100%;
+    text-align:right;
 }
 
 .paddingless {
@@ -33,3 +37,4 @@ div.jumbotron.bigPicUnderNavBar {
 .locationsImg {
     width:100%;
 }
+
