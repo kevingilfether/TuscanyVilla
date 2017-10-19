@@ -5,10 +5,11 @@
     margin-bottom:0px
 }
 
-.jumbotron.bigPicUnderNavBar {
+div.jumbotron.bigPicUnderNavBar {
     background-image: url('Content/tuscany-villas-sant-anna.jpg');
     background-size:cover;
     margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
 .leftImg {
@@ -18,7 +19,7 @@
 .rightImg {
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
-    width:100%;
+    height:100%;
 }
 
 .paddingless {
