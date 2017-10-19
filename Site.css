@@ -18,4 +18,17 @@
 .rightImg {
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
+    width:100%;
+}
+
+.paddingless {
+    padding:0px 0px 0px 0px;
+}
+
+.locationsJumbotron {
+    text-align:center;
+}
+
+.locationsImg {
+    width:100%;
 }
