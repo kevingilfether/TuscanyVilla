@@ -2,5 +2,21 @@
 }
 
 #navvy {
-    background-color: #000000;
+    margin-bottom:0px
+}
+
+.jumbotron.bigPicUnderNavBar {
+    background-image: url('Content/tuscany-villas-sant-anna.jpg');
+    background-size:cover;
+    margin: 0px 0px 0px 0px;
+}
+
+.leftImg {
+    text-align: center;
+}
+
+.rightImg {
+    background-image: url('Content/Versilia.jpg');
+    background-size:cover;
+    margin: 0px 0px 0px 0px;
 }
