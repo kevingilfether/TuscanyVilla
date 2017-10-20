@@ -27,7 +27,11 @@ div.jumbotron.bigPicUnderNavBar {
 }
 
 .paddingless {
-    padding:0px 0px 0px 0px;
+    padding: 0px;
+}
+
+.marginless {
+    margin: 0px;
 }
 
 .locationsJumbotron {
@@ -39,7 +43,7 @@ div.jumbotron.bigPicUnderNavBar {
 }
 
 .amenitiesImg {
-    width:90%;
+    width:100%;
 }
 
 .amenitiesTxt{
