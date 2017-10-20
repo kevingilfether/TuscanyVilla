@@ -34,10 +34,6 @@ div.jumbotron.bigPicUnderNavBar {
     margin: 0px;
 }
 
-.locationsJumbotron {
-    text-align:center;
-}
-
 .locationsImg {
     width:100%;
 }
@@ -55,6 +51,20 @@ div.jumbotron.bigPicUnderNavBar {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-align:center;
+}
+
+#myCarousel {
+    background-color: lightgray;
+    margin-bottom: 25px
+}
+
+.carousel-indicators {
+  bottom:-8px;
+}
+
+
+.centerAlign {
     text-align:center;
 }
 
