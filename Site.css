@@ -60,7 +60,10 @@ div.jumbotron.bigPicUnderNavBar {
 
 li.indicator{
     background-color:darkgray;
-    color: black;
+}
+
+li.indicator.active {
+    background-color:darkgray;
 }
 
 .carousel-indicators {
