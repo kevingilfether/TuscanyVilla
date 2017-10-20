@@ -55,8 +55,12 @@ div.jumbotron.bigPicUnderNavBar {
 }
 
 #myCarousel {
-    background-color: lightgray;
     margin-bottom: 25px
+}
+
+li.indicator{
+    background-color:darkgray;
+    color: black;
 }
 
 .carousel-indicators {
