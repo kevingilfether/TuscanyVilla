@@ -75,3 +75,10 @@ li.indicator.active {
     text-align:center;
 }
 
+.form-control {
+    margin:auto;
+}
+
+.bottomForm {
+    height:150px;
+}
