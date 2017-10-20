@@ -79,6 +79,9 @@ li.indicator.active {
     margin:auto;
 }
 
-.bottomForm {
-    height:150px;
+.submitButton {
+    text-align:right;
+    margin-right:40px;
 }
+
+
