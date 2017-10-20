@@ -1,10 +1,14 @@
 ﻿body {
-    margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
 }
 
 #navvy {
-    margin-bottom:0px
+    margin-bottom:0px;
+    padding-bottom:0px;
+    background-color: #474E5D;
+}
+
+.navbar-default {
+  border-color: transparent;
 }
 
 div.jumbotron.bigPicUnderNavBar {
@@ -52,10 +56,16 @@ div.jumbotron.bigPicUnderNavBar {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align:center;
+    background-color:lightgray;
+    opacity:.7;
+    padding: 4px;
+    margin:4px;
 }
 
+
+
 #myCarousel {
-    margin-bottom: 25px
+    margin-bottom: 0px;
 }
 
 li.indicator{
@@ -69,7 +79,6 @@ li.indicator.active {
 .carousel-indicators {
   bottom:-8px;
 }
-
 
 .centerAlign {
     text-align:center;
@@ -86,6 +95,14 @@ li.indicator.active {
 
 footer {
     text-align:center;
+    background-color: #474E5D;
+}
+
+.featuresJumbotron {
+    background-color: #474E5D;
+    text-align:center;
+    margin:0px;
+    padding: 0px;
 }
 
 
