@@ -8,7 +8,24 @@
 }
 
 .navbar-default {
-  border-color: transparent;
+    border: 0px;
+}
+
+.brand {
+    color:#FFFFFF;
+    font-family: Roboto;
+    padding: 2px 5px 5px 5px;
+    margin-top: 10px;
+}
+
+.navbar .nav > li > a{
+    text-decoration: none;
+    font-family: Roboto;
+    color:#FFFFFF;
+}
+
+.navList {
+    
 }
 
 div.jumbotron.bigPicUnderNavBar {
