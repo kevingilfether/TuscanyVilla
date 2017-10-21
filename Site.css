@@ -87,7 +87,8 @@ div.jumbotron.bigPicUnderNavBar {
 }
 
 #myCarousel {
-    margin-bottom: 0px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 li.indicator{
@@ -101,6 +102,15 @@ li.indicator.active {
 .carousel-indicators {
   bottom:-8px;
 }
+
+.carousel-control.right, .carousel-control.left {
+  background-image:none;
+}
+
+.carouselGlyphicon {
+    color:darkgray;
+}
+
 
 .centerAlign {
     text-align:center;
