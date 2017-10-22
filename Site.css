@@ -81,9 +81,8 @@ div.jumbotron.bigPicUnderNavBar {
     transform: translate(-50%, -50%);
     text-align:center;
     color: #FFFFFF;
-    background-color: #474E5D;
+    background-color: rgba(71, 78, 93, .7);
     font-family: 'Oxygen', sans-serif;
-    opacity:.7;
     padding: 4px;
     margin:4px;
 }
@@ -94,11 +93,11 @@ div.jumbotron.bigPicUnderNavBar {
 }
 
 li.indicator{
-    background-color:darkgray;
+    background-color:#474E5D;
 }
 
 li.indicator.active {
-    background-color:darkgray;
+    background-color:#474E5D;
 }
 
 .carousel-indicators {
@@ -110,7 +109,7 @@ li.indicator.active {
 }
 
 .carouselGlyphicon {
-    color:darkgray;
+    color:#474E5D;
 }
 
 
